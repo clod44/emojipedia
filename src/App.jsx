@@ -10,7 +10,7 @@ function App() {
                 <Search />
             </div>
 
-            <a className="btn btn-sm btn-ghost" href="#" target='_blank'>Github @clod44</a>
+            <a className="btn btn-sm btn-ghost" href="https://github.com/clod44/emojipedia" target='_blank'>Github @clod44</a>
 
         </>
     )
